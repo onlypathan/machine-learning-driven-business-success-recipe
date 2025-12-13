@@ -98,10 +98,6 @@ Together, these components demonstrate how machine learning models can be operat
 - Python 3.9 or later  
 - All project dependencies are defined in `requirements.txt`
 
-### Installation
-bash
-pip install -r requirements.txt
-
 ---
 
 ## Installation
