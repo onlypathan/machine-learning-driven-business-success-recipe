@@ -6,7 +6,6 @@
 **Geographic Scope:** Los Angeles City
 **Primary Focus:** Applied Machine Learning, Data Engineering, Decision Analytics
 
-
 ---
 
 ## Overview
