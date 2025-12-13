@@ -32,11 +32,13 @@ Rather than relying on a single signal (such as online ratings), the project com
 
 ## 📁 Files Included
 
-- `src/` – Source code for data ingestion, preprocessing, analysis, and machine learning workflows  
+- `csv/` – All datatable in csv format 
 - `db/` – SQLite database containing normalized tables and analytical views  
-- `requirements.txt` – Python dependencies required to run the project  
-- `README.md` – Project documentation  
+- `images/` – Screenshots for data in database
+- `src/` – Source code for data ingestion, preprocessing, analysis, and machine learning workflows 
 - `Final_Project_Report_By_Rizwan_Ahasan_Pathan.pdf` – Final report (15 pages)
+- `README.md` – Project documentation 
+- `requirements.txt` – Python dependencies required to run the project   
 
 ---
 
