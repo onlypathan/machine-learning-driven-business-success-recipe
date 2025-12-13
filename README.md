@@ -112,10 +112,10 @@ Together, these components demonstrate how machine learning models can be operat
 - All project dependencies are defined in `requirements.txt`
 
 ### Installation
-bash
 
+```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
