@@ -81,7 +81,7 @@ A unified SQL view, **`Combined_Restaurant_View`**, serves as the single source 
 ---
 
 
-## 🧠 Machine Learning & Analytics Components
+## Machine Learning & Analytics Components
 
 - **Composite Success Index** to quantify overall business performance  
 - **Opportunity Scoring Model** to rank and compare geographic regions  
@@ -93,14 +93,15 @@ Together, these components demonstrate how machine learning models can be operat
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.9 or later  
 - All project dependencies are defined in `requirements.txt`
 
 ### Installation
-```bash
+``bash
 pip install -r requirements.txt
+
 
 ---
 
@@ -113,7 +114,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📚 References
+## References
 
 - [Python Documentation](https://docs.python.org/3/)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/)
