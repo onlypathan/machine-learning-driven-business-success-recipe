@@ -102,6 +102,12 @@ Together, these components demonstrate how machine learning models can be operat
 bash
 pip install -r requirements.txt
 
+---
+
+## Installation
+
+```bash
+pip install -r requirements.txt
 
 ---
 
