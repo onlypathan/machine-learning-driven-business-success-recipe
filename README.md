@@ -3,7 +3,7 @@
 **Author:** Rizwan Ahasan Pathan  
 **Affiliation:** M.S. in Applied Data Science, University of Southern California (USC)  
 **Project Type:** End-to-End Data Engineering & Machine Learning Project  
-**Geographic Scope:** Los Angeles City (119 ZIP Codes)  
+**Geographic Scope:** Los Angeles City 
 **Primary Focus:** Applied Machine Learning, Data Engineering, Decision Analytics
 
 
@@ -29,6 +29,17 @@ Rather than relying on a single signal (such as online ratings), the project com
 
 
 ---
+
+## 📁 Files Included
+
+- `src/` – Source code for data ingestion, preprocessing, analysis, and machine learning workflows  
+- `db/` – SQLite database containing normalized tables and analytical views  
+- `requirements.txt` – Python dependencies required to run the project  
+- `README.md` – Project documentation  
+- `Final_Project_Report_By_Rizwan_Ahasan_Pathan.pdf` – Final report (15 pages)
+
+---
+
 
 ## Data Sources
 
