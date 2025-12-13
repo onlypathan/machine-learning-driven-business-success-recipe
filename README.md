@@ -1,10 +1,11 @@
-# Machine-Learning-Driven Business Success
+# Machine Learning Driven Business Success Recipe
 
 **Author:** Rizwan Ahasan Pathan  
 **Affiliation:** M.S. in Applied Data Science, University of Southern California (USC)  
 **Project Type:** End-to-End Data Engineering & Machine Learning Project  
-**Geographic Scope:** Los Angeles City
-**Primary Focus:** Applied Machine Learning, Data Engineering, Decision Analytics
+**Geographic Scope:** Los Angeles City  
+**Primary Focus:** Applied Machine Learning, Data Engineering, Decision Analytics  
+
 
 ---
 
