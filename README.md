@@ -34,10 +34,10 @@ Rather than relying on a single signal (such as online ratings), the project com
 
 - `csv/` – All datatable in csv format 
 - `db/` – SQLite database containing normalized tables and analytical views  
-- `images/` – Screenshots for data in database
-- `src/` – Source code for data ingestion, preprocessing, analysis, and machine learning workflows 
+- `images/` – Analysis and database screenshots
+- `src/` – Source code for data ingestion, cleaning, feature engineering, analysis, and machine learning workflows
 - `Final_Project_Report_By_Rizwan_Ahasan_Pathan.pdf` – Final report (15 pages)
-- `README.md` – Project documentation 
+- `README.md` – Project overview and documentation 
 - `requirements.txt` – Python dependencies required to run the project   
 
 ---
