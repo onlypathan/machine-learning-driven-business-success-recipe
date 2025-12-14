@@ -121,10 +121,11 @@ pip install -r requirements.txt
 
 ## Reproducibility & Extensibility
 
-- Modular scripts enable independent execution of each stage of the data pipeline  
-- Relational database design supports straightforward schema extension  
-- Analytical workflows can be adapted to domains beyond the restaurant industry  
-- Machine learning models are designed to be interpretable and reproducible  
+- This project follows a modular, end-to-end pipeline covering data collection, cleaning, normalization, analysis, and machine learning.
+- All datasets are consolidated into a normalized SQLite database, which serves as a consistent and reproducible source for downstream analysis and modeling.
+- Each major pipeline stage (scraping, preprocessing, feature engineering, and modeling) is implemented as an independent script or notebook, allowing partial or full reproduction of experiments.
+- The overall design supports extension to new cities, regions, or similar business domains by re-running the data collection steps and updating configuration parameters, with minimal changes to the modeling logic.
+
 
 ---
 
